@@ -83,7 +83,7 @@ module.exports = {
 1. 啟動「編輯預覽」功能。
 
 ```
-yarn docs:dev
+yarn run editing
 ```
 
 ```
