@@ -166,6 +166,45 @@ git push -f git@github.com:<username>/<repository>.git master:gh-pages
 cd -
 ```
 
+## 使用 Travis CI 佈署
+
+ 1. 在 GitHub Repo 設定 GitHub Pages 。
+
+ 2. 在 GitHub 建立 Personal Access Token（GITHUB_TOKEN） 供 Travis 環境變數使用。
+
+   [URL]: [/AlanJui / Settings / Developer settings / Personal access tokens ](https://github.com/settings/tokens)
+
+   [權限]：權限需夠，否則會在「佈署階段」出現問題。
+
+    - repo: Full control of private repositories
+    - workflow: Update GitHub Action workflows
+    - admin:repo_hook: Full control of repository hooks
+
+ 3. 在 GitHub 指定可供 Travis CI App 存取之 Git Repo 。
+
+ 4. 在 Travis 連結的 [Git Repo](https://travis-ci.com/github/AlanJui/han-gi)
+ ，設定 GITHUB_TOKEN。
+
+ 5. 在「Repo根目錄」建 Travis 組建作業指令稿檔案： .travis.yml
+
+```
+language: node_js
+node_js:
+  - lts/*
+install:
+  - yarn install
+script:
+  - yarn docs:build
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: docs/.vuepress/dist
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
+```
+
 ## 異常排除
 
 原先可正常執行之「佈署作業」，突然再也無法正常運作。在 GitHub 的容器網站，
@@ -193,3 +232,8 @@ Your GitHub Pages site is currently being built from the /docs folder in the mas
 [VuePress + GitHub Pages + Travis CI 教程](https://www.jianshu.com/p/a7435b8bc8bc)
 
 [GitHub Pages Deployment](https://docs.travis-ci.com/user/deployment/pages/)
+
+[Creating a personal access
+token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token#creating-a-token)
+
+[Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
