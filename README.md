@@ -189,3 +189,7 @@ Your GitHub Pages site is currently being built from the /docs folder in the mas
 ## 參考文件
 
 [VuePress / Deploying / GitHub Pages](https://vuepress.vuejs.org/guide/deploy.html#github-pages)
+
+[VuePress + GitHub Pages + Travis CI 教程](https://www.jianshu.com/p/a7435b8bc8bc)
+
+[GitHub Pages Deployment](https://docs.travis-ci.com/user/deployment/pages/)

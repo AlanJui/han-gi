@@ -1,3 +1,5 @@
+env:
+  - GITHUB_TOKEN=GITHUB_TOKEN="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"
 language: node_js
 node_js:
   - lts/*
