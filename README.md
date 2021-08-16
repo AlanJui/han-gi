@@ -166,6 +166,26 @@ git push -f git@github.com:<username>/<repository>.git master:gh-pages
 cd -
 ```
 
+## 異常排除
+
+原先可正常執行之「佈署作業」，突然再也無法正常運作。在 GitHub 的容器網站，
+發垷如下之錯誤訊息。
+
+```
+ Your site is having problems building: No /docs folder was found to build GitHub Pages. Check the source setting for this repository. For more information, see https://docs.github.com/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#missing-docs-folder.
+```
+
+【異常矯正提示】： [No /docs folder was found to build GitHub Pages](https://docs.github.com/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#missing-docs-folder)
+
+變更 Repo/settings/pages/GitHub Pages:
+
+ - Branch: master (原設定：gh-pages )
+ - Folers: /docs  (原設定：/)
+
+Source
+Your GitHub Pages site is currently being built from the /docs folder in the master branch.[Learn more](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+
+
 ## 參考文件
 
 [VuePress / Deploying / GitHub Pages](https://vuepress.vuejs.org/guide/deploy.html#github-pages)
