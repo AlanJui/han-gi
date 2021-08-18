@@ -12,17 +12,23 @@ sidebar: auto
 
 此網站的特性：除了可查詢字的「反切」發音；還可查詢在諸子百家書籍、文章的出處。
 
-### 📖 [康熙字典一](https://www.zdic.net/hans/)
+### 📖 [康熙字典一／漢典](https://www.zdic.net/hans/)
 
 可查「反切法」注音，如：土字的【正韻】為「他、魯」切。
 
 此網站的特性：解說全。
 
-### 📖 [康熙字典二](https://kx.cdict.info/)
+### 📖 [康熙字典二／天火字典](https://kx.cdict.info/)
 
 可查「反切法」注音，如：土字的【正韻】為「他、魯」切。
 
 此網站的特性：速度快。
+
+### 📖 [康熙字典三／康熙字典](https://kangxizidian.com/)
+
+可查「反切法」注音，如：土字的【正韻】為「他、魯」切。
+
+此網站的特性：兼具上述兩站：解說全與速度快的優點。
 
 
 ## 拚音字典
@@ -56,10 +62,13 @@ sidebar: auto
  - 白話字解釋：o̍h-tn̂g; chìn-o̍h; ji̍p-o̍h; chhut-o̍h; tōa-o̍h; tiong-o̍h, sió-o̍h; lú-o̍h.
  - 漢羅解釋：學堂; 升學; 入學; 出學; 大學; 中學, 小學; 女學.
 
-
 ### 📖  [Tw-Ch 台文中文辭典](http://ip194097.ntcu.edu.tw/q/THq.asp)
 
 可用漢字查詢「台羅音標」；同時，還可聽「發音」。
+
+### 📖  [台灣語 漢文輔助系統](http://dic.taigubun.org/search.php?fbclid=IwAR3lMkjkhTIZ4iGrKM138ZF3d7YoSuqhCWODgY-PeAFjM5ioi85LUvzP4mo)
+
+可用漢字查詢：台羅音標、方音符號（吳守禮注音）、切音。因為是私人主機，偶而會有無法連線的問題發生。
 
 
 ## 漢字加註音標
