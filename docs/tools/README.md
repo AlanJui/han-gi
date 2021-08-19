@@ -6,6 +6,10 @@ sidebar: auto
 
 ## 反切字典
 
+### 📖 [台語呼音音樂寶鑑字典](http://daigee.com/Dict.php)
+
+可使用改良《十五音》，而新創的《彙音寶鑑拚音系統》，查詢「文字」的切音。
+
 ### 📖 [康熙字典／諸子百家哲學書](https://ctext.org/kangxi-zidian/zh)
 
 可查「反切法」注音，如：土字的【正韻】為「他、魯」切。
@@ -76,3 +80,34 @@ sidebar: auto
 ### 📖 [切韻音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/)
 
 能將漢字自動加註「音標」；但不提供「羅馬拚音」。
+
+
+## 電腦輸入法
+
+
+### 📖 [教育部台灣閩南語漢字輸入法](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=442)
+
+由教育部公佈，可在 Windows / MacOS / Linux 使用的電腦輸入法。
+
+### 📖 [信望愛台／客語輸入法](https://taigi.fhl.net/TaigiIME/)
+
+由民間社團開發，可在 Windows / MacOS / Linux 使用的電腦輸入法。
+
+### 📖 [手機用台語輸入法](http://hualien-tsen-337889.middle2.me/iong)
+
+可用於行動裝置（手機/平板）的台閩輸入法，含：iOS 、 Android 。
+
+### 📖 台羅拚音輸入法測試範例
+
+《渭  城  曲》  作者：王維
+
+|   1    |   2    |   3    |   4    |   5    |    6   |    7   |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|   渭   |   城   |   朝   |   雨   |   挹   |   輕   |   塵   |
+|   ui7  | sing5  | tiau   |   u2   |   ip   | khing  |  tin5  |
+|   客   |   舍   |   青   |   青   |   柳   |   色   |   新   |
+|  khik  | sia3   | tshing | tshing |  liu2  |  sik   |  sin   |
+|   勸   |   君   |   更   |   盡   |   一   |   杯   |   酒   |
+| khuan3 |  kun   | king3  | tsin7  |   it   |  pue   | tsiu2  |
+|   西   |   出   |   陽   |   關   |   無   |   故   |   人   |
+|   se   |  tshut | iong5  |  kuan  |  bu5   |  koo3  |  jin5  |
