@@ -103,6 +103,18 @@ sidebar: auto
 
 |   1    |   2    |   3    |   4    |   5    |    6   |    7   |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| 渭<br>ui7 | 城<br>sing5 | 朝<br>tiau | 雨<br>u2 | 挹<br>ip | 輕<br>khing | 塵<br>tin5 |
+| 客<br>khik | 舍<br>sia3 | 青<br>tshing | 青<br>tshing | 柳<br>liu2 | 色<br>sik | 新<br>sin |
+| 勸<br>khuan3 | 君<br>kun | 更<br>king3 | 盡<br>tsin7 | 一<br>it | 杯<br>pue | 酒<br>tsiu2 |
+| 西<br>se | 出<br>tshut | 陽<br>iong5 | 關<br>kuan | 無<br>bu5 | 故<br>koo3 | 人<br>jin5 |
+
+
+
+
+《渭  城  曲》  作者：王維
+
+|   1    |   2    |   3    |   4    |   5    |    6   |    7   |
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |   渭   |   城   |   朝   |   雨   |   挹   |   輕   |   塵   |
 |   ui7  | sing5  | tiau   |   u2   |   ip   | khing  |  tin5  |
 |   客   |   舍   |   青   |   青   |   柳   |   色   |   新   |
