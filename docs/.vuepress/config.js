@@ -18,4 +18,11 @@ module.exports = {
   markdown: {
     lineNumbers: true,
   },
+  configureWebpack: {
+    resolve: {
+      alias: {
+        '@img': '../.vuepress/public/assets/img',
+      }
+    }
+  }
 };

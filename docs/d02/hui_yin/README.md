@@ -77,11 +77,11 @@ __【45 母音】__
 
 ### 聲韻（音調）
 
-![](/images/ba_sheng_diao.jpeg)
+![](/assets/img/ba_sheng_diao.jpeg)
 
 【聲調記音舉例】：
 
-![](/images/ba_sheng_diao_example.jpeg)
+![](/assets/img/ba_sheng_diao_example.jpeg)
 
 <div style="position: relative;
             padding-bottom: 56.25%; /* 16:9 */
@@ -137,11 +137,11 @@ __【反切法拚音規則】__
 
 __【15 呼音（聲/英語子音）】__
 
-![](/images/15_shen_mu.png)
+![](/assets/img/15_shen_mu.png)
 
 __【45 母音（韻/英語母音）】__
 
-![](/images/45_yun_mu_ba_yin_fan_qie.png)
+![](/assets/img/45_yun_mu_ba_yin_fan_qie.png)
 
 __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
 
@@ -198,7 +198,7 @@ __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
 
 ### 反切拚音
 
-![漢文拼音反切法規則](/images/fan_qie_rules.png)
+![漢文拼音反切法規則](/assets/img/fan_qie_rules.png)
 
 > [輕鬆掌握唐詩宋詞漢文音韻](http://www.taigubun.org/DOC/%E3%80%8C%E8%BC%95%E9%AC%86%E6%8E%8C%E6%8F%A1%E5%94%90%E8%A9%A9%E5%AE%8B%E8%A9%9E(%E5%9B%9B%E6%9B%B8%E4%BA%94%E7%B6%93)%E6%BC%A2%E6%96%87%E9%9F%B3%E9%9F%BB%E3%80%8D.pdf)
 
