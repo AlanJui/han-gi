@@ -238,6 +238,8 @@ __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
 
 ### 教學影片
 
+![](../../picts/ru_shen_yun.png)
+
 - 彙音寶鑑讀音發聲示範
 
 使用《彙音寶鑑》示範讀音：《四十五字母音》、《八音反法》（四十五字母音在「八聲調」
@@ -325,24 +327,24 @@ __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
 
 <style>
 table th:first-of-type {
-    width: 80px;
+    width: 60px;
 }
 table th:nth-of-type(2) {
-    width: 80px;
+    width: 60px;
 }
 table th:nth-of-type(3) {
-    width: 80px;
+    width: 60px;
 }
 table th:nth-of-type(4) {
-    width: 80px;
+    width: 60px;
 }
 table th:nth-of-type(5) {
-    width: 80px;
+    width: 60px;
 }
 table th:nth-of-type(6) {
-    width: 80px;
+    width: 60px;
 }
 table th:nth-of-type(7) {
-    width: 80px;
+    width: 60px;
 }
 </style>
