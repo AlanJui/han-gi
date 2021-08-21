@@ -21,7 +21,7 @@ module.exports = {
   configureWebpack: {
     resolve: {
       alias: {
-        '@img': '../.vuepress/public/assets/img',
+        "@pict": "/Users/alanjui/workspace/docs/han-gi/docs/.vuepress/public/assets/img"
       }
     }
   }

@@ -77,6 +77,9 @@ __【45 母音】__
 
 ### 聲韻（音調）
 
+<img :src="$withBase('/assets/img/ba_sheng_diao.jpeg')"
+     alt="八聲調" >
+
 ![](/assets/img/ba_sheng_diao.jpeg)
 
 【聲調記音舉例】：
