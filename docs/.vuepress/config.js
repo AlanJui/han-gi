@@ -6,7 +6,7 @@ module.exports = {
     nav: [
       { text: "首頁", link: "/" },
       { text: "工具", link: "/tools/" },
-      { text: "網誌", link: "https:\/\/alanjui.github.io/" },
+      { text: "筆記", link: "https:\/\/alanjui.github.io/my-blog" },
     ],
     sidebar: [
       "/d01/",
