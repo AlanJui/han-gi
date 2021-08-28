@@ -6,9 +6,35 @@ sidebar: auto
 
 ## 漢字加註音標
 
+### 網頁文字標注音
+在 Markdown / HTML 對中文字加註「音標」：
+
+> <ruby>我<rt>ㄨㄛˇ</rt></ruby>
+
+> <ruby>渭<rt>ui7</rt></ruby><ruby>   城<rt>shing5</rt></ruby>
+
+> <ruby>渭<rt>ui7</rt>城<rt>shing5</rt></ruby>
+
+```
+<ruby>我<rt>ㄨㄛˇ</rt></ruby>
+<ruby>渭<rt>ui7</rt></ruby><ruby>   城<rt>shing5</rt></ruby>
+<ruby>渭<rt>ui7</rt>城<rt>shing5</rt></ruby>
+```
+
+### LibreOffice Write
+使用 LibreOffice V7.1.0 ，在 Write App 裡內建的[「亞洲語言注音標示」](https://help.libreoffice.org/3.3/Common/Asian_Phonetic_Guide/zh-TW)功能，可對中文字標示「注音」。
+
+![](../picts/LibreOffice_Pin_Yin.png)
+
+### [ToneOZ.COM 工具網站](https://toneoz.com/)
+可將中文標上漢語拼音或注音，整齊排版方便閱讀。 最後幫你存為透明背景圖檔，輸出到任何其他文書處理軟體中使用。
+
+![](../picts/Zhu_Yin.png)
+
 ### [📖 切韻音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/)
 能將漢字自動加註「音標」；但不提供「羅馬拚音」。
 
+![](../picts/Qie_Yun_Machine.png)
 
 ## 電腦輸入法
 
@@ -33,6 +59,93 @@ sidebar: auto
 >| 勸<br>khuan3 | 君<br>kun   | 更<br>king3  | 盡<br>tsin7  | 一<br>it   | 杯<br>pue   | 酒<br>tsiu2 |
 >| 西<br>se     | 出<br>tshut | 陽<br>iong5  | 關<br>kuan   | 無<br>bu5  | 故<br>koo3  | 人<br>jin5  |
 
+## Unicode 輸入工具
+
+何謂[「Unicode輸入法」](https://zh.wikipedia.org/wiki/Unicode%E8%BE%93%E5%85%A5%E6%B3%95)
+
+> **【註】**：
+>
+> Unicode 目前為止定義了五個平面，其中的第 0 平面 (BMP)
+> 最為重要，其編碼分布請參考[連結](https://www.itsfun.com.tw/unicode/wiki-1812564-0983444)。
+>
+> Unicode 表示式：
+>  - 文件： ㄅ：U+3105
+>  - 程式： ㄅ：\u3105
+
+### 常用字碼
+
+ - [注音符號
+   (Unicode區段)](https://zh.m.wiktionary.org/zh-hant/Appendix:Unicode/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F)
+ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Unicode_Block_Bopomofo_only.svg/1920px-Unicode_Block_Bopomofo_only.svg.png)
+ - [注音符號擴展 (Unicode區段)](https://zh.m.wiktionary.org/wiki/Appendix:Unicode/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F%E6%93%B4%E5%B1%95)
+
+ - ㄅㄆㄇ ~ ㄧㄨㄩ：U+3105 ～ U+3129
+    + ㄐ：U+3110
+
+ - 聲調符號：
+    + 二聲(ˊ)：U+02CA
+    + 三聲(ˇ)：U+02C7
+    + 四聲(ˊ)：U+02CB
+    + 輕聲(˙)：U+02D9
+ˉ
+> **【註】：**
+> 一聲的聲調符號《ˉ》，可在「倉頡輸入法」啟用時，按〔Option〕＋〔Shift〕＋〔B〕組合鍵，先打開「表情與標點符號」選單，再選取一聲聲調符號。
+
+ - [注音標音OpenType Font計畫](https://g0v.hackpad.tw/ep/pad/static/bFFqBpPmcz0)
+
+ - [注音符號擴充（U+31A0–U+31BF)](https://chukaml.tripod.com/linguistics/unicode/codeChart/U0031A0.html)
+
+### MacOS 環境
+
+ - 安裝輸入法： [Unicode十六進位輸入](https://ladedu.com/how-to-enter-unicode-characters-on-a-mac/)
+ - 輸入操作法： （1）按〔Option〕鍵；（2）輸入 Uniode 代碼。
+
+### Windows 環境
+
+- 安裝輸入法：
+   [輸入法整合器](http://svc.011.idv.tw/ShareAll/KM/How/Windows/%E5%A6%82%E4%BD%95%E8%BC%B8%E5%85%A5Unicode%E7%89%B9%E6%AE%8A%E5%AD%97%E5%85%83%E7%AC%A6%E8%99%9F.html)
+- 輸入操作法：（1）按〔`U〕鍵；（2）輸入 Unicode 內碼。
+
+
+
+## 程式舘
+
+- [pinyin4js](https://github.com/superbiger/pinyin4js)
+pinyin4js 是一個漢字轉拼音的Javascript開源程式舘；適用於 NodeJS 與 Web 瀏覽器。
+
+__【Node】__
+
+```
+    //pinyin4js@1.3.16 or latest
+    import pinyin4js from 'pinyin4js';
+
+    // more detail methods in test
+    // WITH_TONE_NUMBER--数字代表声调，WITHOUT_TONE--不带声调，WITH_TONE_MARK--带声调
+
+    // output: xià#mén#nǐ#hǎo#dà#shà#xià#mén
+    console.log(pinyin4js.convertToPinyinString('厦门你好大厦厦门', '#', pinyin4js.WITH_TONE_MARK))
+
+    //首字母风格
+    // output: xmnhdsxm
+    console.log(pinyin4js.convertToPinyinString('厦门你好大厦厦门', '', pinyin4js.FIRST_LETTER))
+    // or
+    console.log(pinyin4js.getShortPinyin('厦门你好大厦厦门'))
+```
+
+__【Browers】__
+
+```
+    // <script src="./dist/pinyin4js.js"></script>
+
+    // output: xià#mén#nǐ#hǎo#dà#shà#xià#mén
+    console.log(PinyinHelper.convertToPinyinString('厦门你好大厦厦门', '#', PinyinFormat.WITH_TONE_MARK))
+
+    //首字母风格
+    // output: xmnhdsxm
+    console.log(PinyinHelper.convertToPinyinString('厦门你好大厦厦门', '', PinyinFormat.FIRST_LETTER))
+    // or
+    console.log(PinyinHelper.getShortPinyin('厦门你好大厦厦门'))
+```
 
 ## 中州韻(RIME)輸入法引擎
 
