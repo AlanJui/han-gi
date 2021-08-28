@@ -49,7 +49,7 @@ sidebar: auto
 
 **【台羅拚音】**
 ![](../picts/Wui_Chen_Qu-Tai_Luo_Pin_Yin.png)
-<br>
+
 **【台羅拚音簡式】**
 ![](../picts/Wui_Chen_Qu-Tai_Luo_Pin_Yin_Jian.png)
 
