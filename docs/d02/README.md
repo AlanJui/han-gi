@@ -48,9 +48,11 @@ sidebar: auto
  - [台羅拼音歌](https://www.youtube.com/watch?v=QZt43n9NAnI)
 
 **【台羅拚音】**
+
 ![](../picts/Wui_Chen_Qu-Tai_Luo_Pin_Yin.png)
 
 **【台羅拚音簡式】**
+
 ![](../picts/Wui_Chen_Qu-Tai_Luo_Pin_Yin_Jian.png)
 
  - [台語通用羅馬拼音](https://www.youtube.com/watch?v=2dVO4OkjOU8)
