@@ -6,37 +6,34 @@ sidebar: auto
 
 ## 十五音
 
- - [十五音](./shi_wu_yin/)
+### [十五音](./shi_wu_yin/)
 
- - [彙音寶鑑](/d02/hui_yin/)
+傳統漢學十五音。
+
+### [彙音寶鑑](./hui_yin/)
+
+傳統漢學十五音改良版。
 
 ![](../picts/Wui_Chen_Qu-Shi_Wu_Yin.png)
 
 ## 注音符號
 
- - [方音符號](fang_yin/)
+![](https://pic3.zhimg.com/v2-e54f35064b7e5710489a155ec91f0aab_1440w.jpg?source=172ae18b)
 
-## 注音符號改良
+### [方音符號](fang_yin/)
 
- - [台語注音符號](https://www.youtube.com/watch?v=EEndKSmeG5I&list=PL3-KKGFJdGz0lOJXfmMOZOUpYSC94TJxX)：台語音標，只須改良現有的國語注音符號。
+吳守禮先生，將「注音符號」改良、裁剪，使之適用於標註台語發音。
 
-![](../picts/Tai_Yu_Zhu_Yin.png)
+![](./fang_yin/picts/Fang_Yin-Huang_He_Lou.jpg)
 
- - [台語注音符號可以用唱的喔](https://www.youtube.com/watch?v=vEulNQ-NWzY&list=PL3-KKGFJdGz0lOJXfmMOZOUpYSC94TJxX&index=4)
 
- - [台語注音符號 ABC](https://www.youtube.com/watch?v=k2Bxdl_uhoA&list=PL3-KKGFJdGz0lOJXfmMOZOUpYSC94TJxX&index=6)：令台語注音符號可在電腦輸入。
+### [無名台語注音](wu_ming/)
 
-![](../picts/Tai_Yu_Zhu_Yin_ABC.png)
+同屬注音符號改良後的台語發聲方法，因作者未示其名，故暫稱：無名台語注音。
 
- - [用一個W掌握台語聲調](https://www.youtube.com/watch?v=lfSNWNlcNeA&list=PL3-KKGFJdGz0lOJXfmMOZOUpYSC94TJxX&index=2)
+![](./wu_ming/picts/Tai_Yu_Zhu_Yin.png)
 
-![](../picts/Tai_Yu_Zhu_Yin-7_Shen_Diao.png)
-
-![](../picts/Tai_Yu_Zhu_Yin-7_Shen_Diao-A.png)
-
-![](../picts/Tai_Yu_Zhu_Yin-7_Shen_Diao-B.png)
-
- - [台語變調規則](https://www.youtube.com/watch?v=fyfTqM8UMg8&list=PL3-KKGFJdGz0lOJXfmMOZOUpYSC94TJxX&index=3)
+![](./wu_ming/picts/Tai_Yu_Zhu_Yin_ABC.png)
 
 ## 羅馬拚音
 

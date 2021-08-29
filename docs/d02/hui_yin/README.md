@@ -119,6 +119,53 @@ __【反切法拚音規則】__
 </div>
 
 
+## 發聲教學影片
+
+【彙音寶鑑讀音發聲示範】：
+
+使用《彙音寶鑑》示範讀音：《四十五字母音》、《八音反法》（四十五字母音在「八聲調」
+變化下的各種發音）及《十五音呼法》（十五音與八音反法結合下的發音）。
+
+### 📖 《漢文四十五字母音》
+
+<div style="position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            height: 0;">
+  <iframe style="position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;"
+    width="560" height="315" src="https://www.youtube.com/embed/sm2AzO_sSlc?start=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### 📖 《漢文八音》
+
+<div style="position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            height: 0;">
+  <iframe style="position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;"
+    width="560" height="315" src="https://www.youtube.com/embed/sm2AzO_sSlc?start=377" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### 📖 《十五音呼法》
+
+<div style="position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            height: 0;">
+  <iframe style="position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;"
+    width="560" height="315" src="https://www.youtube.com/embed/sm2AzO_sSlc?start=889" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## 聽說練習
 
 ### 練發聲
@@ -182,23 +229,34 @@ __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
 
 ## 參考
 
-### 字典
+### 線上字典
 
-> [台語呼音音樂寶鑑字典](http://daigee.com/Dict.php)
+[台語呼音音樂寶鑑字典](http://daigee.com/Dict.php)，一個近似《彙音寶鑑》的線上
+字典。稱作「近似」的原因為：該網站說明主體架構雖採用《彙音寶鑑》，但在細節部份
+有略作修訂。
 
-### 基礎教學
+### 背誦工具
 
-> __【台語呼音音樂鑑】__
->
->  + [十五音聲母表](http://daigee.com/teaching03.php)
->
->  + [四十五韻母表](http://daigee.com/teaching01.php)
->
->  + [四十五韻母八音反切](http://daigee.com/teaching02.php)
->
->  + [八音反切（拚音）](http://daigee.com/teaching03.php)
+在【台語呼音音樂鑑】網站上的摘要教材。初學者經常會忘記聲母／韻母／八音的「發聲」
+，此時可線上查詢，立即複習：
 
-### 反切拚音
+ + [十五音聲母表](http://daigee.com/teaching03.php)
+
+ + [四十五韻母表](http://daigee.com/teaching01.php)
+
+ + [四十五韻母八音反切](http://daigee.com/teaching02.php)
+
+ + [八音反切（拚音）](http://daigee.com/teaching03.php)
+
+### 彙音寶鑑用法簡介
+
+說明紙版《彙音寶鑑》，怎麼閱讀；如何查詢「字」的讀音？
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVGIWhG2MW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 反切法如何拚音
+
+簡介傳統的漢文，如何使用「反切法」，推導某個「字」的發聲，學習其讀音。
 
 <img :src="$withBase('/assets/img/fan_qie_rules.png')"
       alt="漢文拼音反切法規則" >
@@ -207,7 +265,7 @@ __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
 
 ### 如何押韻
 
-如何透過字母音（韻母），達成歌詞、文句的押韻。
+如何使用「字母音（韻母）」，查詢及確認文句的押韻，用以創作詩詞、歌詞。
 
 <div style="position: relative;
             padding-bottom: 56.25%; /* 16:9 */
@@ -218,6 +276,19 @@ __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
                  width: 100%;
                  height: 100%;"
     width="560" height="315" src="https://www.youtube.com/embed/q0npa559m5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### 韻母四十五音
+
+<div style="position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            height: 0;">
+  <iframe style="position: absolute;
+                 top: 0;
+                 left: 0;
+                 width: 100%;
+                 height: 100%;"
+    width="560" height="315" src="https://www.youtube.com/embed/BG2hyNc9bUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### 十五音呼音練習表
@@ -236,68 +307,9 @@ __[【四十五韻母八音反切表】](http://daigee.com/teaching02.php)__
 </div>
 
 
-### 教學影片
+### 淺談彙音寶鑑
 
-![](../../picts/ru_shen_yun.png)
-
-- 彙音寶鑑讀音發聲示範
-
-使用《彙音寶鑑》示範讀音：《四十五字母音》、《八音反法》（四十五字母音在「八聲調」
-變化下的各種發音）及《十五音呼法》（十五音與八音反法結合下的發音）。
-
-📖 《四十五字母音》
-
-<div style="position: relative;
-            padding-bottom: 56.25%; /* 16:9 */
-            height: 0;">
-  <iframe style="position: absolute;
-                 top: 0;
-                 left: 0;
-                 width: 100%;
-                 height: 100%;"
-    width="560" height="315" src="https://www.youtube.com/embed/sm2AzO_sSlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-📖 《八音反法》
-
-<div style="position: relative;
-            padding-bottom: 56.25%; /* 16:9 */
-            height: 0;">
-  <iframe style="position: absolute;
-                 top: 0;
-                 left: 0;
-                 width: 100%;
-                 height: 100%;"
-    width="560" height="315" src="https://www.youtube.com/embed/sm2AzO_sSlc?start=377" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-📖 《十五音呼法》
-
-<div style="position: relative;
-            padding-bottom: 56.25%; /* 16:9 */
-            height: 0;">
-  <iframe style="position: absolute;
-                 top: 0;
-                 left: 0;
-                 width: 100%;
-                 height: 100%;"
-    width="560" height="315" src="https://www.youtube.com/embed/sm2AzO_sSlc?start=889" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- 韻母四十五音
-
-<div style="position: relative;
-            padding-bottom: 56.25%; /* 16:9 */
-            height: 0;">
-  <iframe style="position: absolute;
-                 top: 0;
-                 left: 0;
-                 width: 100%;
-                 height: 100%;"
-    width="560" height="315" src="https://www.youtube.com/embed/BG2hyNc9bUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-- 45 音與 8 聲
+由「王顯榮」先生所執教的《彙音寶鑑》摘要解說。
 
 📖 《彙音寶鑑 01》
 
