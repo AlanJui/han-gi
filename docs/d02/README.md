@@ -35,6 +35,8 @@ sidebar: auto
 
 ![](./wu_ming/picts/Tai_Yu_Zhu_Yin_ABC.png)
 
+![](./fang_yin/picts/Fang_Yin-7_Shen_Diao.jpg)
+
 ## 羅馬拚音
 
  - [學台羅拚音－第一篇：聲母（子音）](https://www.youtube.com/watch?v=92q7mAF_8EY)

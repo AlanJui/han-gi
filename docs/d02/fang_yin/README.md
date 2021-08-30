@@ -12,6 +12,29 @@ sidebar: auto
 
 【註】：參考[維基百科：台灣方音符號](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%96%B9%E9%9F%B3%E7%AC%A6%E8%99%9F#Unicode)。
 
+### 符號總表
+![](./picts/Fang_Yin-Yin_Biaou.png)
+
+### 國台共用符號
+
+台語注音符號，自「國語注音符號」繼承之部份如下：
+
+![](./picts/Fang_Yin_Fu_Hao-Base.png)
+
+**【台語注音符號應用舉例】**
+
+![](./picts/Fang_Yin_Fu_Hao-Base-Example.jpg)
+
+### 台語專用符號
+
+國語注音符號無法滿足，而新創之「台語注音符號」如下：
+
+![](./picts/Fang_Yin_Fu_Hao-Extension.png)
+
+**【台語注音符號應用舉例】**
+
+![](./picts/Fang_Yin_Fu_Hao-Extension-Example.jpg)
+
 ## 聲／韻／調結構
 
 指導初學者，認識：
@@ -19,9 +42,9 @@ sidebar: auto
  - 韻母音標
  - 聲調對照
 
-![](./picts/Fang_Yin-Yin_Biaou.png)
-
 ### 聲母
+
+![](./picts/Fang_Yin-Shen_Fu.png)
 
 ![](./picts/Fang_Yin-Shen.png)
 
@@ -30,6 +53,8 @@ sidebar: auto
 ![](./picts/Fang_Yin-Shen_Li.png)
 
 ### 韻母
+
+![](./picts/Fang_Yin-Yun_Fu.png)
 
 ![](./picts/Fang_Yin-Yun.png)
 ![](./picts/Fang_Yin-Yun_2.png)
@@ -44,9 +69,58 @@ sidebar: auto
 
 ### 入聲尾韻
 
+台語有四種入聲，依韻尾的收聲分為兩類：
+ 1. 韻尾收於「促聲」：ㄅ、ㄉ、ㄍ
+ 2. 韻尾收於「喉塞」：ㄏ
+
+上述四種入聲又依聲調，各分為陰（上）入聲和陽（下）入聲。
+
+入聲音符符號的表示，是在本音注音音符的右下角附上小號的（ㄅ、ㄉ、ㄍ、
+ㄏ）以表示各收於（ㄅ、ㄉ、ㄍ、ㄏ）音的陰入聲，在各陰入聲符號上加一
+小圓點以表示陽入聲。
+
+![](./picts/Fang_Yin-Ru_Shen_Fu-Li.png)
+
 ![](./picts/Fang_Yin-Ru_Shen.png)
 
 ### 聲調
+
+台語有七種聲調，即：陰平、陽平、上聲、陰去、陽去、陰入、陽入共七種
+聲調。但是漳、泉、廈三地各有其不同的抑揚高低，如：漳、廈只有一種上
+聲，不分陰、陽；泉州則去聲不分陰、陽；潮州則八種俱全，比較存古。
+
+俗稱八種聲調是將上聲分為陰、陽兩種上聲以便朗誦記憶，但陰、陽兩種上
+聲是相同，因此實際上只有七聲。
+
+現今，廈門匯合漳、泉，聲調多折衷，台灣聚集漳、泉通往廈門，聲調更與
+廈門七聲幾無二致。因此，《綜合閩南方言基本字典》於字音的聲母、韻母，盡
+力搜集文獻資料詳記漳、泉、廈的異同，聲調則統一於一，依照記錄廈門音之文
+獻，折合不漳不泉的母語－台灣台南音。
+
+**【聲調記號】**
+
+![](./picts/Fang_Yin-Sheng_Diao_Fu.png)
+
+ - 第一聲：陰平調－高平調，與華語的第一聲（陰平）相近。
+
+ - 第二、六聲：上聲調－高降調，大致和華語的第四聲（去聲）相同。
+
+ - 第三聲：陰去調－低降調（），大致和華語的第三聲（上聲）的前半段相同。
+
+ - 第五聲： 陽平調－中升調，在華語的第二聲（陽平）和第三聲（上聲）之間，
+ 較近第二聲（陽平）（尤其是泉州音）。
+
+ - 第七聲：陽去調－中平調，華音無此聲調（如台北市的─市）。
+
+**【韻尾收於入聲】**
+
+![](./picts/Fang_Yin-Sheng_Diao_Fu-Ru_Sheng.png)
+
+韻尾收於：ㄅ、ㄉ、ㄍ（促聲音）、ㄏ（喉塞音），此四音稱：「入聲」。
+
+韻尾收於入聲的標記：在小寫的促聲、喉塞聲音尾符號頂上加一圓點以表示陽入調。
+
+**【聲調記號總結】**
 
 ![](./picts/Fang_Yin-Ba_Shen_Diao.png)
 
@@ -58,16 +132,40 @@ sidebar: auto
  7. 陽去：ㄉㆲ˫  (洞)   ˫
  8. 陽入：ㄉㆦㄍ̇ (毒)   ㄅ̇, ㄉ̇, ㄍ̇, ㄏ̇
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lrIEs5LCDFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 教學影片
+### 變調
+
+![](./picts/Fang_Yin-Bian_Diao_Rules.png)
+
+![](./picts/Fang_Yin-Bian_Diao_Rules-Fig.png)
+
+## 示範與練習
+
+### [華、台音注音符號發音教學](http://olddoc.tmu.edu.tw/chiaushin/tai-phonet.htm)
+
+由吳守禮教授主講的投影片。為了示範「台語注音符號」的發音，簡報中附有：聲音、影音
+的連結。遇有看不懂，無法體會「發音」的時候，可依此連結之助，用於解惑。
 
 ### 讀音示範
 
 認識方音符號的「讀音」及「寫法」。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QhYjJE71Dik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rk7JD6L5lLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 拚音範例
+
+![](./picts/Wu_Yia_Hui.png)
+
+![](./picts/Bbang_Cun_Hong.png)
+
+![](./picts/Be_Ling_Xi.png)
+
+![](./picts/Ee_A4.png)
+
+![](./picts/Cao2_Mee2_Gang.png)
 
 ![](./picts/Fang_Yin-Bi_Hun-01.jpg)
 ![](./picts/Fang_Yin-Bi_Hun-02.jpg)
@@ -79,6 +177,16 @@ sidebar: auto
 
 
 ## 參考文章
+
+ - [華、台語注音符號總表](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf)
+
+ - [台語七種拼音法對照表](http://olddoc.tmu.edu.tw/chiaushin/Tai-PA-w-0.pdf)
+
+ - [華、台語注音符號溯源](http://olddoc.tmu.edu.tw/chiaushin/marker-0.htm)
+
+ - [新編台灣閩南語用字彙編](https://xiaoxue.iis.sinica.edu.tw/download/files/WSL_TPS_Huibian.pdf)
+
+ - [台語文書寫讀本](http://olddoc.tmu.edu.tw/Taiwanese-6/index.html)
 
  - [方音符號系統](http://acdm3.tcssh.tc.edu.tw/teach/parent_%20language/parent/book/book_9.pdf)
 
