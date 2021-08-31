@@ -58,6 +58,8 @@ sidebar: auto
 
 ## 羅馬拚音
 
+### 台羅拼音
+
  - [學台羅拚音－第一篇：聲母（子音）](https://www.youtube.com/watch?v=92q7mAF_8EY)
  - [學台羅拚音－第二篇：韻母（母音）／韻尾](https://www.youtube.com/watch?v=D2uxHOKkpFY&t=0s)
  - [學台羅拚音－第三篇：淺規則／白話字](https://www.youtube.com/watch?v=GxLz5pkHqO4&t=0s)
@@ -76,9 +78,20 @@ sidebar: auto
  - [台語通用羅馬拼音](https://www.youtube.com/watch?v=2dVO4OkjOU8)
 
 
-## 其它方法
+## 通用拼音
 
- - [漢語拚音學台語](https://www.youtube.com/watch?v=k2Bxdl_uhoA)
+### [通用台語注音](./tong_yong_tai_yu_zhu_yin)
+
+由「王啟陽」先生推展的「台語拼音方法」，其特點：
+ - 現有的「國語注音符號」，添加十個符號，便能當作台語的注音符號；
+ - 所有的「台語注音符號」，對映至「電腦鍵盤」的位置，同「通用拼音」。
+
+這套台語拼音方法，王啟陽先生似乎未賦予「名稱」，為了此筆記的編撰之便，個人只好潛越，暫時將之稱作：「通用台語注音」。
+
+![](./tong_yong_tai_yu_zhu_yin/picts/di-zi-gui.png)
+
+![](./tong_yong_tai_yu_zhu_yin/picts/jia_xue_shi_ge_fu_hao.png)
+
 
 
 ## 參考文章
