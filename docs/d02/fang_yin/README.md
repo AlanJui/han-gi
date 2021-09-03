@@ -15,6 +15,8 @@ sidebar: auto
 ### 符號總表
 ![](./picts/Fang_Yin-Yin_Biaou.png)
 
+![](./picts/fang-yin-vs-tai-luo-vs-guo-yu-zhu-yin.png)
+
 ### 國台共用符號
 
 台語注音符號，自「國語注音符號」繼承之部份如下：
@@ -44,28 +46,23 @@ sidebar: auto
 
 ### 聲母
 
+**【聲母符號】**
+
 ![](./picts/Fang_Yin-Shen_Fu.png)
 
-![](./picts/Fang_Yin-Shen.png)
+**【發音說明】**
 
-【範例】：
-
-![](./picts/Fang_Yin-Shen_Li.png)
+![](./picts/sheng-mu-list.png)
 
 ### 韻母
 
+**【聲母符號】**
+
 ![](./picts/Fang_Yin-Yun_Fu.png)
 
-![](./picts/Fang_Yin-Yun.png)
-![](./picts/Fang_Yin-Yun_2.png)
+**【發音說明】**
 
-![](./picts/Fang_Yin-Yun_3.png)
-
-![](./picts/Fang_Yin-Yun_4.png)
-
-【範例】：
-
-![](./picts/Fang_Yin-Yun_Li.png)
+![](./picts/yun-mu-list.png)
 
 ### 入聲尾韻
 
@@ -80,8 +77,6 @@ sidebar: auto
 小圓點以表示陽入聲。
 
 ![](./picts/Fang_Yin-Ru_Shen_Fu-Li.png)
-
-![](./picts/Fang_Yin-Ru_Shen.png)
 
 ### 聲調
 
@@ -177,6 +172,47 @@ sidebar: auto
 
 
 ## 參考文章
+
+### 台語方音與國語注音
+
+台語方音符號與國語注音符號兩者間，異、同比較。
+
+![](./picts/Fang_Yin-Shen.png)
+
+【漢字範例】：
+
+![](./picts/Fang_Yin-Shen_Li.png)
+
+
+![](./picts/Fang_Yin-Yun.png)
+![](./picts/Fang_Yin-Yun_2.png)
+![](./picts/Fang_Yin-Ru_Shen.png)
+
+【漢字範例】：
+
+![](./picts/Fang_Yin-Yun_Li.png)
+
+
+![](./picts/Fang_Yin-Yun_3.png)
+
+![](./picts/Fang_Yin-Yun_4.png)
+
+
+
+### 方音與台羅的聲調表
+
+以下為方音符號與台羅拚音音標，標示「聲調」所用的符號。
+
+![](./picts/sheng-diao-fang-yin-vs-tai-luo.png)
+
+### 常見聲調符號表
+
+以下台灣常見之「注音符號」、「拚音音標」做一列表清單，比較各方法在標示「聲調」時
+所使用的「符號」。
+
+![](./picts/sheng-diao-list.png)
+
+### 網路文章
 
  - [華、台語注音符號總表](http://olddoc.tmu.edu.tw/Taiwanese-6/Tai-PA-w-3.pdf)
 

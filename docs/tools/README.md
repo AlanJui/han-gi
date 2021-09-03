@@ -6,7 +6,14 @@ sidebar: auto
 
 ## 漢字加註音標
 
-### 網頁文字標注音
+### [📖 字咍台語IVS字型輸入工具](https://buttaiwan.github.io/taigivs/)
+
+輸入「漢字」後，系統能依使用者的設定，自動為漢字加註：「方音注音符號」、「台羅
+拚音音標」。
+
+![](./picts/zi-dong-jia-zhu-yin.png)
+
+### 📖 網頁文字標注音
 在 Markdown / HTML 對中文字加註「音標」：
 
 > <ruby>我<rt>ㄨㄛˇ</rt></ruby>
@@ -21,12 +28,12 @@ sidebar: auto
 <ruby>渭<rt>ui7</rt>城<rt>shing5</rt></ruby>
 ```
 
-### LibreOffice Write
+### 📖 LibreOffice Write
 使用 LibreOffice V7.1.0 ，在 Write App 裡內建的[「亞洲語言注音標示」](https://help.libreoffice.org/3.3/Common/Asian_Phonetic_Guide/zh-TW)功能，可對中文字標示「注音」。
 
 ![](../picts/LibreOffice_Pin_Yin.png)
 
-### [ToneOZ.COM 工具網站](https://toneoz.com/)
+### [📖 ToneOZ.COM 工具網站](https://toneoz.com/)
 可將中文標上漢語拼音或注音，整齊排版方便閱讀。 最後幫你存為透明背景圖檔，輸出到任何其他文書處理軟體中使用。
 
 ![](../picts/Zhu_Yin.png)
@@ -35,6 +42,14 @@ sidebar: auto
 能將漢字自動加註「音標」；但不提供「羅馬拚音」。
 
 ![](../picts/Qie_Yun_Machine.png)
+
+## 字型下載
+
+提供「附加注音符號／拚音音標」，可供下載的中文字型。
+
+### [字咍IVS標音字型](https://github.com/ButTaiwan/taigivs/releases)
+
+字咍IVS標音字型（Taigi IVS Font）的[《使用說明》](https://hackmd.io/@Q07_QXJ3TiO7QjkHkyOexA/B1B6zbPRd)。
 
 ## 電腦輸入法
 
