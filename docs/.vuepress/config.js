@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/han-gi/",
   title: "漢語學習筆記",
   description: "學習使用河洛話（古漢語），誦讀詩、詞與古文。",
   themeConfig: {
