@@ -7,6 +7,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "editing": "vuepress dev docs",
+    "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "review": "live-server docs/.vuepress/dist",
     "release": ". publish.sh"
